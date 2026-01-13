@@ -1,17 +1,8 @@
-<<<<<<< HEAD
-# React + Vite
+💐 सस्नेह निमंत्रण💐
+आपणास कळविण्यास अत्यंत आनंद होत आहे कि  या वर्षी आमच्या कडगाव गावची महालक्ष्मी यात्रा दि.06/05/2025  ते 10/05/2025  पर्यंत असुन आपणा सर्वांना आग्रहाचे निमंत्रण देतो की ,आमच्या यात्रेस उपस्थित राहुन आमच्या यात्रेची शोभा वाढवावी हि नम्र विनंती
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://mahalakshmi-yatra-invitation.vercel.app/
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # mahalakshmi-yatra-invitation
 Kadgaon Gaon chi Mahalakshmi Yatara invitation website
->>>>>>> a7f8ca0b316413c95ec4e94e2d04a80ca0defedb
+
